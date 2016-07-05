@@ -611,14 +611,7 @@
                     "endOffset": 3157
                 },
                 "from": {
-                    "file": "F:\\Android\\UdacityCode\\xyzreader_v2\\XYZReader\\src\\main\\res\\values\\colors.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 755,
-                        "endColumn": 45,
-                        "endOffset": 796
-                    }
+                    "file": "F:\\Android\\UdacityCode\\xyzreader_v2\\XYZReader\\src\\main\\res\\values\\colors.xml"
                 }
             },
             {
@@ -3498,7 +3491,14 @@
                     "endOffset": 41612
                 },
                 "from": {
-                    "file": "F:\\Android\\UdacityCode\\xyzreader_v2\\XYZReader\\src\\main\\res\\values\\dimens.xml"
+                    "file": "F:\\Android\\UdacityCode\\xyzreader_v2\\XYZReader\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 240,
+                        "endColumn": 43,
+                        "endOffset": 279
+                    }
                 }
             },
             {
@@ -3510,7 +3510,14 @@
                     "endOffset": 41654
                 },
                 "from": {
-                    "file": "F:\\Android\\UdacityCode\\xyzreader_v2\\XYZReader\\src\\main\\res\\values\\dimens.xml"
+                    "file": "F:\\Android\\UdacityCode\\xyzreader_v2\\XYZReader\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 339,
+                        "endColumn": 41,
+                        "endOffset": 376
+                    }
                 }
             },
             {
