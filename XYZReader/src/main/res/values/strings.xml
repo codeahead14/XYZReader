@@ -9,4 +9,5 @@
 
     <string name="up">Up</string>
 
+    <string name="ImgTransition">imgSharedTransition</string>
 </resources>
